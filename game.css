@@ -1,0 +1,42 @@
+body {
+	background-repeat: no-repeat;
+	background-position: bottom 50px right 200px !important;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0AMkxhHJups%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=4ff43fcc794240509594df750ef1fa87515f9c5560c376ea9b9cbf151e461123&ipo=images");
+}
+
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1Name , #player2Name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#wordDisplay
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.container {
+	padding-top: 15%;
+}
